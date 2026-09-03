@@ -2,7 +2,7 @@
 
 Hi there! I'm a **B.Tech student in Bioinformatics & Data Science** (6th semester) with a deep passion for all things **music, fashion and data**.
 
-I've been a **hardcore Spotify & Pinterest kinda girlie** since 2019 — the kind who reads Wrapped like scripture and curates playlists like a second language while laying on her bed scrolling hours and hours on pinterest. Now, I'm building tools to analyze, understand, and personalize my musical and aesthetic doom scrolling experience through **code and machine learning**.
+I've been a **hardcore Spotify & Pinterest kinda girlie** since 2019 — the kind who reads Wrapped like scripture and curates playlists like a second language while laying on her bed scrolling hours and hours on pinterest. Now, I'm building tools to analyze, understand, and personalize my musical and aesthetic doom scrolling experience through **vibe code and machine learning**.
 
 ---
 
