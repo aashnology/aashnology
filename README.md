@@ -17,5 +17,5 @@ I've been a **hardcore Spotify & Pinterest kinda girlie** since 2019 — the kin
 
 ### 🚀 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aashna-batabyal-989b13283/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]((https://www.linkedin.com/in/aashnadataanalyst/))  
 Portfolio (coming soon)  
