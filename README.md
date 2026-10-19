@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:7b6cff,100:39ff88&height=190&section=header&text=PLAYER%2001&fontSize=56&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=%E2%98%85%20aashnology%20%E2%98%85%20press%20start%20%E2%98%85&descSize=16&descAlignY=60" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:7b6cff,100:39ff88&height=200&section=header&text=AASHNA&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20AI%20%26%20Pipeline%20Automation%20%7C%20Open%20Source%20Contributor&descSize=15&descAlignY=62" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=900&color=39FF88&center=true&vCenter=true&width=700&height=40&lines=HELLO+WORLD!+I'M+AASHNA;B.TECH+BIOINFORMATICS+%26+DATA+SCIENCE;MUSIC+%2B+DATA+%3D+MY+FAVORITE+COMBO;LOADING+NEXT+LEVEL..." alt="typing" />
 
@@ -18,26 +18,18 @@
 
 </div>
 
+
+<div align="center">
+<img src="assets/beagle-run.svg" alt="pixel beagle running along the ground" width="100%"/>
+</div>
+
 ---
 
 ## ✦ LEVEL 01 · MEET THE PLAYER
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  ★ HELLO!!                                         [_][X]│
-├──────────────────────────────────────────────────────────┤
-│  PLAYER   : Aashna (she/her)                             │
-│  CLASS    : B.Tech student, Bioinformatics & Data Science│
-│  LANGUAGES: English · Hindi · Bengali · German           │
-│  OBSESSED : playlist algorithms, visual search,          │
-│             product analytics                            │
-│  MISSION  : Become a Data Analyst building for           │
-│             Spotify- & Pinterest-style products          │
-│  STATUS   : Ready to explore, build, and win.            │
-│                                                          │
-│  > Let's start the game!                                 │
-└──────────────────────────────────────────────────────────┘
-```
+<div align="center">
+<img src="assets/meet-the-player.svg" alt="Terminal window: player Aashna. Languages English, Hindi, Bengali, German. Obsessed with recommendation algorithms, product analytics, pipeline automation. Mission: become a data analyst at Spotify or Pinterest. Status: undergraduate, looking for opportunities." width="100%"/>
+</div>
 
 I've been a hardcore Spotify & Pinterest kinda girlie since 2019. I read Wrapped like scripture and curate playlists like a second language. Now I build tools that analyze, understand, and personalize my own musical and aesthetic doom-scrolling, using **vibe coding + machine learning**.
 
@@ -47,16 +39,31 @@ I've been a hardcore Spotify & Pinterest kinda girlie since 2019. I read Wrapped
 
 <div align="center">
 
+**MAIN WEAPONS**<br/>
 ![Python](https://img.shields.io/badge/Python-ff2e97?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![C](https://img.shields.io/badge/C-7b6cff?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
-![C#](https://img.shields.io/badge/C%23-39ff88?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-f7e26b?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![MySQL](https://img.shields.io/badge/MySQL-ff2e97?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-![R](https://img.shields.io/badge/R-7b6cff?style=for-the-badge&logo=r&logoColor=white&labelColor=000000)
-![PHP](https://img.shields.io/badge/PHP-39ff88?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
+![SQL](https://img.shields.io/badge/SQL-7b6cff?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![R](https://img.shields.io/badge/R-39ff88?style=for-the-badge&logo=r&logoColor=black&labelColor=000000)
+![Power BI](https://img.shields.io/badge/Power_BI-f7e26b?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-ff2e97?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
 
-<!-- [[ FILL ME ]] add more badges for libraries/tools you use, e.g. pandas, scikit-learn, Jupyter, Power BI, Tableau, Git -->
+**ANALYST LOADOUT**<br/>
+![Pandas](https://img.shields.io/badge/Pandas-7b6cff?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
+![Jupyter](https://img.shields.io/badge/Jupyter-39ff88?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=000000)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-f7e26b?style=for-the-badge&logo=scikitlearn&logoColor=black&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-ff2e97?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![Excel](https://img.shields.io/badge/Excel-7b6cff?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=000000)
 
+**SIDE WEAPONS**<br/>
+![C](https://img.shields.io/badge/C-39ff88?style=for-the-badge&logo=c&logoColor=black&labelColor=000000)
+![C#](https://img.shields.io/badge/C#-f7e26b?style=for-the-badge&logo=csharp&logoColor=black&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-ff2e97?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![PHP](https://img.shields.io/badge/PHP-7b6cff?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
+
+</div>
+
+
+<div align="center">
+<img src="assets/beagle-run.svg" alt="pixel beagle running along the ground" width="100%"/>
 </div>
 
 ---
@@ -85,6 +92,11 @@ I've been a hardcore Spotify & Pinterest kinda girlie since 2019. I read Wrapped
  > [[ FILL ME ]] 20XX – 20XX
 ```
 
+
+<div align="center">
+<img src="assets/beagle-run.svg" alt="pixel beagle running along the ground" width="100%"/>
+</div>
+
 ---
 
 ## ✦ MISSIONS (PROJECTS)
@@ -104,13 +116,18 @@ I've been a hardcore Spotify & Pinterest kinda girlie since 2019. I read Wrapped
 ## ✦ QUEST LOG · WHERE I'M HEADING
 
 ```text
- [■■■□□]  MAIN QUEST     : Data Analyst role at a music/visual-discovery company
+ [■■■□□]  MAIN QUEST     : Data Analyst at Spotify / Pinterest
  [■□□□□]  SIDE QUEST     : [[ FILL ME ]]  e.g. build a Spotify listening-habits analyzer
  [□□□□□]  FUTURE QUEST   : [[ FILL ME ]]  e.g. internships, certifications, open source
  
  CURRENTLY LEARNING : [[ FILL ME ]]
  CURRENTLY BUILDING : [[ FILL ME ]]
 ```
+
+
+<div align="center">
+<img src="assets/beagle-run.svg" alt="pixel beagle running along the ground" width="100%"/>
+</div>
 
 ---
 
@@ -131,7 +148,7 @@ I've been a hardcore Spotify & Pinterest kinda girlie since 2019. I read Wrapped
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff2e97?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/[[ FILL ME: your-handle ]])
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff2e97?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/aashnadataanalyst)
 ![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING_SOON-7b6cff?style=for-the-badge&labelColor=000000)
 <!-- optional: ![Spotify](https://img.shields.io/badge/SPOTIFY-[[ FILL ME ]]-39ff88?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000) -->
 <!-- optional: ![Pinterest](https://img.shields.io/badge/PINTEREST-[[ FILL ME ]]-ff2e97?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=000000) -->
