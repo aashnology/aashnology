@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 308" width="700" height="308" role="img" aria-label="Terminal window: B.Tech, Bioinformatics and Data Science, D.Y. Patil deemed to be University, School of Biotechnology and Bioinformatics, 2023-2028.">
-<style>.t{font-family:"Courier New",Courier,monospace;font-size:16px}.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
-<defs><clipPath id="c"><rect x="36" y="16" width="640" height="262" rx="16"/></clipPath></defs>
-<rect x="18" y="34" width="640" height="262" rx="16" fill="#dca0d6" stroke="#1a1a1a" stroke-width="3"/>
-<rect x="36" y="16" width="640" height="262" rx="16" fill="#f2cdd9" stroke="#1a1a1a" stroke-width="3"/>
-<g clip-path="url(#c)"><rect x="36" y="16" width="640" height="46" fill="#faf3e0"/><line x1="36" y1="62" x2="676" y2="62" stroke="#1a1a1a" stroke-width="3"/></g>
-<circle cx="66" cy="39" r="9" fill="#e07a30"/><circle cx="94" cy="39" r="9" fill="#e07a30"/><circle cx="122" cy="39" r="9" fill="#e07a30"/>
-<text class="t" x="656" y="45" text-anchor="end" fill="#a0125a" font-size="13">training.log</text>
-<g class="t"><text x="64" y="104" fill="#a0125a" font-weight="bold">$ cat training.log</text><text x="64" y="136"><tspan fill="#a0125a" font-weight="bold">&gt; degree</tspan><tspan x="206" fill="#2a1a2e">: B.Tech, Bioinformatics &amp; Data Science</tspan></text><text x="64" y="166"><tspan fill="#a0125a" font-weight="bold">&gt; college</tspan><tspan x="206" fill="#2a1a2e">: D.Y. Patil deemed to be University</tspan></text><text x="225" y="196" fill="#2a1a2e">School of Biotechnology and Bioinformatics</text><text x="64" y="226"><tspan fill="#a0125a" font-weight="bold">&gt; years</tspan><tspan x="206" fill="#2a1a2e">: 2023-2028 (be nice)</tspan></text><text x="64" y="262" fill="#a0125a" font-weight="bold">$</text><rect class="cur" x="82" y="246" width="11" height="19" fill="#2a1a2e"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 232" width="620" height="232" role="img" aria-label="Terminal window: B.Tech, Bioinformatics and Data Science, D.Y. Patil deemed to be University, School of Biotechnology and Bioinformatics, 2023-2028.">
+<style>.t{font-family:"Courier New",Courier,monospace;font-size:14px}.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<defs><clipPath id="c"><rect x="28" y="12" width="568" height="202" rx="12"/></clipPath></defs>
+<rect x="14" y="26" width="568" height="202" rx="12" fill="#dca0d6" stroke="#1a1a1a" stroke-width="2.5"/>
+<rect x="28" y="12" width="568" height="202" rx="12" fill="#f2cdd9" stroke="#1a1a1a" stroke-width="2.5"/>
+<g clip-path="url(#c)"><rect x="28" y="12" width="568" height="36" fill="#faf3e0"/><line x1="28" y1="48" x2="596" y2="48" stroke="#1a1a1a" stroke-width="2.5"/></g>
+<circle cx="52" cy="30" r="7" fill="#e07a30"/><circle cx="74" cy="30" r="7" fill="#e07a30"/><circle cx="96" cy="30" r="7" fill="#e07a30"/>
+<text class="t" x="580" y="34" text-anchor="end" fill="#a0125a" font-size="11">training.log</text>
+<g class="t"><text x="52" y="80" fill="#a0125a" font-weight="bold">$ cat training.log</text><text x="52" y="106"><tspan fill="#a0125a" font-weight="bold">&gt; degree</tspan><tspan x="156" fill="#2a1a2e">: B.Tech, Bioinformatics &amp; Data Science</tspan></text><text x="52" y="129"><tspan fill="#a0125a" font-weight="bold">&gt; college</tspan><tspan x="156" fill="#2a1a2e">: D.Y. Patil deemed to be University</tspan></text><text x="173" y="152" fill="#2a1a2e">School of Biotechnology and Bioinformatics</text><text x="52" y="175"><tspan fill="#a0125a" font-weight="bold">&gt; years</tspan><tspan x="156" fill="#2a1a2e">: 2023-2028 (be nice)</tspan></text><text x="52" y="200" fill="#a0125a" font-weight="bold">$</text><rect class="cur" x="67" y="187" width="9" height="16" fill="#2a1a2e"/></g>
 </svg>

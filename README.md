@@ -22,7 +22,7 @@ Palette: hot pink #ff2e97 · mint #39ff88 · periwinkle #7b6cff · star yellow #
 I've been a hardcore Spotify & Pinterest kinda girlie since 2019. I read Wrapped like scripture and curate playlists like a second language. Now, I build tools that analyze, understand and personalize my own musical and aesthetic doom-scrolling, using **vibe coding + machine learning**.
 
 <div align="center">
-<img src="assets/meet-the-player.svg" alt="Terminal window: player Aashna. Languages English, Hindi, Bengali, German. Obsessed with recommendation algorithms, product analytics, pipeline automation. Mission: become a data analyst at Spotify or Pinterest. Status: undergraduate, looking for opportunities." width="100%"/>
+<img src="assets/meet-the-player.svg" alt="Terminal window: player Aashna. Languages English, Hindi, Bengali, German. Obsessed with recommendation algorithms, product analytics, pipeline automation. Mission: become a data analyst at Spotify or Pinterest. Status: undergraduate, looking for opportunities." width="520"/>
 </div>
 
 ---
@@ -57,7 +57,7 @@ I've been a hardcore Spotify & Pinterest kinda girlie since 2019. I read Wrapped
 ## ✦ LEVEL 03 · SKILLS MASTERY
 
 <div align="center">
-<img src="assets/skills-mastery.svg" alt="Terminal window listing my skills in data and analysis, machine learning and automation, and product and domain thinking" width="100%"/>
+<img src="assets/skills-mastery.svg" alt="Terminal window listing my skills in data and analysis, machine learning and automation, and product and domain thinking" width="520"/>
 </div>
 
 
@@ -66,7 +66,7 @@ I've been a hardcore Spotify & Pinterest kinda girlie since 2019. I read Wrapped
 ## ✦ LEVEL 04 · TRAINING LOG
 
 <div align="center">
-<img src="assets/training-log.svg" alt="Terminal window: B.Tech, Bioinformatics and Data Science, D.Y. Patil deemed to be University, 2023-2028" width="100%"/>
+<img src="assets/training-log.svg" alt="Terminal window: B.Tech, Bioinformatics and Data Science, D.Y. Patil deemed to be University, 2023-2028" width="520"/>
 </div>
 
 
