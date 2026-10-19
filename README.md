@@ -27,7 +27,7 @@ I've been a hardcore Spotify & Pinterest kinda girlie since 2019. I read Wrapped
 
 ---
 
-## ✦ WEAPONS MASTERY (TECH STACK)
+## ✦ LEVEL 02 · WEAPONS MASTERY (TECH STACK)
 
 <div align="center">
 
@@ -54,33 +54,25 @@ I've been a hardcore Spotify & Pinterest kinda girlie since 2019. I read Wrapped
 
 ---
 
-## ✦ SKILLS MASTERY
+## ✦ LEVEL 03 · SKILLS MASTERY
 
-DATA & ANALYSIS
-  • Advanced SQL & Database Management
-  • Exploratory Data Analysis & Statistics (hypothesis testing, A/B testing)
-  • Data Visualization & Dashboarding (Power BI, Tableau, Matplotlib)
+<div align="center">
+<img src="assets/skills-mastery.svg" alt="Terminal window listing my skills in data and analysis, machine learning and automation, and product and domain thinking" width="100%"/>
+</div>
 
- MACHINE LEARNING & AUTOMATION
-  • Recommendation Systems & Collaborative Filtering (Spotify/Pinterest style)
-  • Pipeline Automation & ETL Workflows (Python, Docker, Airflow basics)
-  • Predictive Modeling & User Segmentation (clustering, classification)
-
- PRODUCT & DOMAIN THINKING
-  • Product Analytics (funnel analysis, retention metrics, user journey mapping)
-  • Music & Recommendation System Logic (playlist algorithms, collaborative filtering)
 
 ---
 
-## ✦ TRAINING LOG
+## ✦ LEVEL 04 · TRAINING LOG
 
-  • B.Tech, Bioinformatics & Data Science
-  • D.Y. Patil deemed to be University School of Biotechnology and Bioinformatics
-  • 2023-2028 (be nice)
+<div align="center">
+<img src="assets/training-log.svg" alt="Terminal window: B.Tech, Bioinformatics and Data Science, D.Y. Patil deemed to be University, 2023-2028" width="100%"/>
+</div>
+
 
 ---
 
-## ✦ SAVE POINT · CONNECT WITH ME
+## ✦ LEVEL 05 · SAVE POINT · CONNECT WITH ME
 
 <div align="center">
 
@@ -95,6 +87,6 @@ DATA & ANALYSIS
 
 <img src="https://komarev.com/ghpvc/?username=aashnology&label=PLAYERS+VISITED&color=ff2e97&style=for-the-badge" alt="views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff88,50:7b6cff,100:ff2e97&height=120&section=footer" alt="footer wave" />
+<img src="assets/footer.svg" alt="footer wave" width="100%" />
 
 </div>
