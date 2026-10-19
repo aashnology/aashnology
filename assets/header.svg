@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="AASHNA. Data Analyst | AI and Pipeline Automation | Open Source Contributor">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2e97"/><stop offset=".5" stop-color="#7b6cff"/><stop offset="1" stop-color="#39ff88"/></linearGradient>
+<clipPath id="w"><path d="M0 0H800V168C750 190 700 190 650 168S550 146 500 168 400 190 350 168 250 146 200 168 100 190 50 168 0 160 0 168Z"/></clipPath>
+</defs>
+<style>.t{font-family:"Courier New",Courier,monospace;font-weight:bold}.s{animation:tw 1.6s steps(1) infinite}@keyframes tw{50%{opacity:.2}}.d{animation:dr 6s linear infinite}@keyframes dr{to{transform:translateX(-100px)}}</style>
+<g clip-path="url(#w)"><rect width="800" height="200" fill="url(#g)"/>
+<g opacity=".18"><path class="d" d="M0 150 Q25 135 50 150 T100 150 T150 150 T200 150 T250 150 T300 150 T350 150 T400 150 T450 150 T500 150 T550 150 T600 150 T650 150 T700 150 T750 150 T800 150 T850 150 T900 150 V200 H0Z" fill="#fff"/></g></g>
+<g fill="#000"><rect class="s" x="60" y="34" width="6" height="6"/><rect class="s" x="740" y="50" width="6" height="6" style="animation-delay:.5s"/><rect class="s" x="120" y="70" width="6" height="6" style="animation-delay:1s"/><rect class="s" x="690" y="85" width="6" height="6" style="animation-delay:.8s"/></g>
+<text class="t" x="400" y="98" text-anchor="middle" font-size="64" letter-spacing="8" fill="#000">AASHNA</text>
+<text class="t" x="400" y="132" text-anchor="middle" font-size="15" fill="#000">Data Analyst | AI &amp; Pipeline Automation | Open Source Contributor</text>
+</svg>
