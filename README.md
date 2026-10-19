@@ -14,7 +14,6 @@ Palette: hot pink #ff2e97 · mint #39ff88 · periwinkle #7b6cff · star yellow #
   <img src="https://img.shields.io/badge/XP-LEVEL_UP_IN_PROGRESS-7b6cff?style=for-the-badge&labelColor=000000" alt="xp" />
 </div>
 
----
 
 ---
 ## ✦ LEVEL 01 · MEET THE PLAYER
