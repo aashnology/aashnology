@@ -77,7 +77,7 @@ I've been a hardcore Spotify & Pinterest kinda girlie since 2019. I read Wrapped
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff2e97?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/aashnadataanalyst)
-![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING_SOON-7b6cff?style=for-the-badge&labelColor=000000)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT_MY_SITE-ff2e97?style=for-the-badge&labelColor=000000)](https://aashnology.github.io)
 <!-- optional: ![Spotify](https://img.shields.io/badge/SPOTIFY-[[ FILL ME ]]-39ff88?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000) -->
 <!-- optional: ![Pinterest](https://img.shields.io/badge/PINTEREST-[[ FILL ME ]]-ff2e97?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=000000) -->
 
