@@ -3,7 +3,7 @@ Palette: hot pink #ff2e97 · mint #39ff88 · periwinkle #7b6cff · star yellow #
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:7b6cff,100:39ff88&height=200&section=header&text=AASHNA&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20AI%20%26%20Pipeline%20Automation%20%7C%20Open%20Source%20Contributor&descSize=15&descAlignY=62" alt="header" />
+  <img src="assets/header.svg" alt="AASHNA - Data Analyst | AI & Pipeline Automation | Open Source Contributor" />
   
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=900&color=39FF88&center=true&vCenter=true&width=700&height=40&lines=HELLO+WORLD!+I'M+AASHNA;B.TECH+BIOINFORMATICS+%26+DATA+SCIENCE;MUSIC+%2B+DATA+%3D+MY+FAVORITE+COMBO;LOADING+NEXT+LEVEL..." alt="typing" />
   
